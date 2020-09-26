@@ -8,7 +8,7 @@ try:
 	CYL = '\33[93m'
 	wordlist = "lfi.txt"
 
-	os.system("cls")
+	os.system("clear")
 	print(CGR+"""_  _ ____ _  _ ___ ____ ____ ____ _ ___ 
 |\/| |__|  \/   |  |___ |__/ |  | |  |  
 |  | |  | _/\_  |  |___ |  \ |__| |  |  
